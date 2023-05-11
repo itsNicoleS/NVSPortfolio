@@ -1,0 +1,30 @@
+body {
+    background-color: #d9dcd6;
+    margin:auto; 
+    text-align: center;
+}
+
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #00000000;
+}
+
+div ul {
+    list-style-type: none;
+}
+
+div ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a {
+    color: #8e58a5;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
